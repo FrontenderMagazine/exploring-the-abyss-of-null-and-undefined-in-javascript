@@ -1,5 +1,3 @@
-*By [Ryan Morr][1]*
-
 When discussing primitive data types in JavaScript, most people are aware of
 the basics, starting with*String*, *Number*, and *Boolean*. These primitives
 are fairly straightforward and function as you might expect. This article,
